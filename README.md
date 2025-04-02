@@ -41,7 +41,7 @@ Matheus Sebrian de Souza, 18 anos, natural de São paulo. Atualmente, estou curs
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="100" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=sebrian-dev&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
   />
@@ -49,7 +49,7 @@ Matheus Sebrian de Souza, 18 anos, natural de São paulo. Atualmente, estou curs
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150"
+      height="100"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebrian-dev&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
