@@ -31,6 +31,14 @@ Matheus Sebrian de Souza, 18 anos, natural de São paulo. Atualmente, estou curs
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<img
+    align="lefT"
+    alt="JAVASCRIPT"
+    title="JAVASCRIPT"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
 
 <br>
 <br>
