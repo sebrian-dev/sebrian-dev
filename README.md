@@ -1,7 +1,7 @@
 #   Matheus Sebrian
-**`Desenvolvedor FullStack`**
+**`Estudante de TI | Construindo Minha Jornada em Desenvolvimento`**
 
-Matheus Sebrian de Souza, 18 anos, natural de São paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC, aprofundando conhecimentos em desenvolvimento de software, banco de dados e inovação tecnológica.
+Olá! Sou Matheus Sebrian, estudante do 1º semestre de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. No momento, estou mergulhando nos fundamentos de HTML, CSS e JavaScript, além de explorar um pouco de Java. Meu objetivo? Aprender na prática e contribuir com projetos que transformem linhas de código em soluções reais.
 
 ---
 
