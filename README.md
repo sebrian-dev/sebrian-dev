@@ -1,7 +1,7 @@
 #   Matheus Sebrian
 **`Estudante de TI | Construindo Minha Jornada em Desenvolvimento`**
 
-Olá! Sou Matheus Sebrian, estudante do 1º semestre de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. No momento, estou mergulhando nos fundamentos de HTML, CSS e JavaScript, além de explorar um pouco de Java. Meu objetivo? Aprender na prática e contribuir com projetos que transformem linhas de código em soluções reais.
+Olá! Sou Matheus Sebrian, estudante do 2º semestre de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. No momento, estou mergulhando nos fundamentos de HTML, CSS, JavaScript e Java. Meu objetivo? Aprender na prática e contribuir com projetos que transformem linhas de código em soluções reais.
 
 ---
 
