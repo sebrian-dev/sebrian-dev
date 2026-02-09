@@ -1,48 +1,58 @@
-#   Matheus Sebrian
-**`Estudante de TI | Construindo Minha Jornada em Desenvolvimento`**
+# Matheus Sebrian
 
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 
-### 💻 Linguagens e Tecnologias
+## 👨‍🎓 Sobre Mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img
-    align="lefT"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img
-    align="lefT"
-    alt="JAVASCRIPT"
-    title="JAVASCRIPT"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img
-    align="lefT"
-    alt="JAVA"
-    title="JAVA"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+Olá! Sou Matheus Sebrian, estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou focando meus estudos em duas frentes:
 
-<br>
-<br>
+1. **Desenvolvimento Web:** HTML, CSS e JavaScript (com certificação da Fundação Bradesco)
+2. **Iniciação em Dados:** Python e SQL para análise de dados
 
-### 📊 Estatísticas
+Também tenho certificação em **Artificial Intelligence Fundamentals** da IBM, que abordou IA, Machine Learning e ética na tecnologia.
+
+---
+
+## 📚 O Que Estou Aprendendo
+
+### 🔹 Tecnologias Técnicas
+- **Python** - Foco em análise de dados
+- **SQL** - Fundamentos de bancos de dados
+- **HTML, CSS, JavaScript** - Desenvolvimento web front-end
+- **Java** - Lógica de programação e fundamentos
+- **Power BI** - Introdução à visualização de dados
+
+### 🔹 Soft Skills Certificadas
+- Habilidades interpessoais e criatividade (SEBRAE)
+- Gestão de conflitos e negociação (Centro Paula Souza)
+- Produção de conteúdo audiovisual (UFRGS)
+
+---
+
+## 🎯 Objetivo Atual
+
+Busco meu **primeiro estágio** ou **projeto voluntário** nas áreas de:
+- Análise de dados
+- Suporte técnico
+- Desenvolvimento web básico
+- Business Intelligence (Power BI)
+
+---
+
+## 📫 Contato
+
+**GitHub:** [sebrian-dev](https://github.com/sebrian-dev)  
+**LinkedIn:** [Matheus Sebrian](https://linkedin.com/in/matheus-sebrian) 
+
+---
+
+<div align="center">
+  
+*"Construindo minha jornada em tecnologia, um passo de cada vez."*
+
+</div>
 
 
 
