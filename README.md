@@ -1,7 +1,6 @@
 #   Matheus Sebrian
 **`Estudante de TI | Construindo Minha Jornada em Desenvolvimento`**
 
-Olá! Sou Matheus Sebrian, estudante do 2º semestre de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. No momento, estou mergulhando nos fundamentos de HTML, CSS, JavaScript e Java. Meu objetivo? Aprender na prática e contribuir com projetos que transformem linhas de código em soluções reais.
 
 ---
 
@@ -45,14 +44,7 @@ Olá! Sou Matheus Sebrian, estudante do 2º semestre de Análise e Desenvolvimen
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=sebrian-dev&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
-  />
+
 
 <img 
       align="left" 
