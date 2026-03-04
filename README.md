@@ -6,10 +6,10 @@
 
 ## 👨‍🎓 Sobre Mim
 
-Olá! Sou Matheus Sebrian, estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou focando meus estudos em duas frentes:
+Olá! Sou Matheus Sebrian, estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou focando meus estudos:
 
 1. **Desenvolvimento Web:** HTML, CSS e JavaScript (com certificação da Fundação Bradesco)
-2. **Iniciação em Dados:** Python e SQL para análise de dados
+2. **Aperfeiçoando:** Java
 
 Também tenho certificação em **Artificial Intelligence Fundamentals** da IBM, que abordou IA, Machine Learning e ética na tecnologia.
 
@@ -18,7 +18,6 @@ Também tenho certificação em **Artificial Intelligence Fundamentals** da IBM,
 ## 📚 O Que Estou Aprendendo
 
 ### 🔹 Tecnologias Técnicas
-- **Python** - Foco em análise de dados
 - **SQL** - Fundamentos de bancos de dados
 - **HTML, CSS, JavaScript** - Desenvolvimento web front-end
 - **Java** - Lógica de programação e fundamentos
