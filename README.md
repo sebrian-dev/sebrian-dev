@@ -35,7 +35,6 @@ Também tenho certificação em **Artificial Intelligence Fundamentals** da IBM,
 Busco meu **primeiro estágio** ou **projeto voluntário** nas áreas de:
 - Análise de dados
 - Suporte técnico
-- Desenvolvimento web básico
 - Business Intelligence (Power BI)
 
 ---
