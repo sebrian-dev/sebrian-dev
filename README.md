@@ -1,56 +1,53 @@
-# Matheus Sebrian
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+###
 
----
+<h2 align="left">Matheus Sebrian</h2>
 
-## 👨‍🎓 Sobre Mim
+###
 
-Olá! Sou Matheus Sebrian, estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou focando meus estudos:
+<h4 align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas</h4>
 
-1. **Desenvolvimento Web:** HTML, CSS e JavaScript (com certificação da Fundação Bradesco)
-2. **Aperfeiçoando:** Java
+###
 
-Também tenho certificação em **Artificial Intelligence Fundamentals** da IBM, que abordou IA, Machine Learning e ética na tecnologia.
+<p align="left">👨‍🎓 Sobre Mim<br><br>Olá! Sou Matheus Sebrian, estudante do 3º semestre de Análise e Desenvolvimento de Sistemas. Atualmente, estou focando meus estudos:<br><br>1.  Desenvolvimento Web: HTML, CSS e JavaScript (com certificação da Fundação Bradesco)<br>2. Aperfeiçoando: Java<br><br>Também tenho certificação em **Artificial Intelligence Fundamentals** da IBM, que abordou IA, Machine Learning e ética na tecnologia.</p>
 
----
+###
 
-## 📚 O Que Estou Aprendendo
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-### 🔹 Tecnologias Técnicas
-- **SQL** - Fundamentos de bancos de dados
-- **HTML, CSS, JavaScript** - Desenvolvimento web front-end
-- **Java** - Lógica de programação e fundamentos
-- **Power BI** - Introdução à visualização de dados
-
-### 🔹 Soft Skills Certificadas
-- Habilidades interpessoais e criatividade (SEBRAE)
-- Gestão de conflitos e negociação (Centro Paula Souza)
-- Produção de conteúdo audiovisual (UFRGS)
-
----
-
-## 🎯 Objetivo Atual
-
-Busco meu **primeiro estágio** ou **projeto voluntário** nas áreas de:
-- Análise de dados
-- Suporte técnico
-- Business Intelligence (Power BI)
-
----
-
-## 📫 Contato
-
-**GitHub:** [sebrian-dev](https://github.com/sebrian-dev)  
-**LinkedIn:** [Matheus Sebrian](https://linkedin.com/in/matheus-sebrian) 
-
----
+###
 
 <div align="center">
-  
-*"Construindo minha jornada em tecnologia, um passo de cada vez."*
-
 </div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebrian-dev/sebrian-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebrian-dev/sebrian-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sebrian-dev/sebrian-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
