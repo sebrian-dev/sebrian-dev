@@ -3,8 +3,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebrian-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="140" alt="stats graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebrian-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebrian-dev&show_icons=true&theme=react&hide=contribs,prs,issues" height="140" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebrian-dev&layout=compact&theme=react" height="120" alt="languages graph" />
 </div>
 
 ###
