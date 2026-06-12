@@ -1,10 +1,10 @@
-<h1 align="left">Hey, I'm Matheus, be very welcome!</h1>
+<h3 align="center">Hey, I'm Matheus</h3>
 
 ###
 
  ---
  
-<h6 align="center">🛠️ Languages & Technologies</h6>
+<h4 align="center">🛠️ Languages & Technologies</h4>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h6 align="center">🛠️ Tools & Systems</h6>
+<h4 align="center">🛠️ Tools & Systems</h4>
 
 ###
 
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebrian-dev&show_icons=true&theme=react&hide=contribs,prs,issues" height="140" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebrian-dev&show_icons=true&theme=react&hide=contribs,prs,issues" height="120" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebrian-dev&layout=compact&theme=react" height="120" alt="languages graph" />
 </div>
 
