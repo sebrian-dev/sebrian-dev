@@ -1,10 +1,10 @@
-<h3 align="center">Hey, I'm Matheus</h3>
+<h5 align="center">Hey, I'm Matheus</h5>
 
 ###
 
  ---
  
-<h4 align="center">🛠️ Languages & Technologies</h4>
+<h3 align="center">🛠️ Languages & Technologies</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="center">🛠️ Tools & Systems</h4>
+<h3 align="center">🛠️ Tools & Systems</h3>
 
 ###
 
